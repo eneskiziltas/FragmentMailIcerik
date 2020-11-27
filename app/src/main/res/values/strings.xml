@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FragmentMailIcerik</string>
+
+    <string-array name="mail_subjects">
+        <item>Mail 1</item>
+        <item>Mail 2</item>
+        <item>Mail 3</item>
+        <item>Mail 4</item>
+    </string-array>
+
+    <string-array name="mail_content">
+        <item>İçerik 1</item>
+        <item>İçerik 2</item>
+        <item>İçerik 3</item>
+        <item>İçerik 4</item>
+    </string-array>
+</resources>
